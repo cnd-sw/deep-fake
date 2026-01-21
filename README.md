@@ -60,6 +60,3 @@ follow the prompts to specify seed urls and download limits.
 - `POST /api/analyze`: accepts an image file, returns forensic analysis report (ela score, blur metric).
 - `POST /api/index`: accepts a directory path, recursively indexes images.
 
-## license
-
-proprietary software. built for local deployment.
