@@ -1,0 +1,25 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# mac os
+.DS_Store
+
+# application data
+*.db
+*.sqlite3
+
+# directories for data
+uploads/
+crawled_images/
+database/
+index/
+static/
+
+# environment variables & secrets
+.env
+env/
+venv/
+.python-version

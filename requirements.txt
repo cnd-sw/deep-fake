@@ -1,0 +1,26 @@
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+werkzeug==3.0.1
+
+# Image Processing
+Pillow==10.2.0
+imagehash==4.3.1
+opencv-python==4.9.0.80
+scikit-image==0.22.0
+
+# Deep Learning for Deep Fake Detection
+torch==2.1.2
+torchvision==0.16.2
+timm==0.9.12
+facenet-pytorch==2.5.3
+
+# Utilities
+numpy==1.26.3
+scipy==1.12.0
+tqdm==4.66.1
+python-magic==0.4.27
+
+# Image Similarity
+faiss-cpu==1.7.4
+sentence-transformers==2.3.1
